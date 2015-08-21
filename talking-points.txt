@@ -1,0 +1,14 @@
+* Intro of Akka HTTP 
+ * Type of a Route
+ * Websockets
+ * Materializer vs Actor stuff
+ * Reactive Streams
+ * http://www.slideshare.net/rolandkuhn/akka-streams-and-http
+ * Testing
+
+* Our project
+ * routing dsl
+ * Lack of libraries
+ * How to handle Futures
+
+* Is Spray dead?
